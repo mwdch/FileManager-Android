@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="text_dialogAddNewFolder_title">Add New Folder</string>
+    <string name="hint_dialogAddNewFolder_folderName">Enter folder name</string>
+    <string name="text_dialogAddNewFolder_create">Create</string>
+    <string name="hint_main_search">Search something...</string>
+</resources>
